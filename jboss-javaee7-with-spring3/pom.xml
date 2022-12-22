@@ -26,7 +26,7 @@
 
     <properties>
         <!-- Versions of Spring Projects -->
-        <version.org.springframework>5.2.20.RELEASE</version.org.springframework>
+        <version.org.springframework>6.0.0</version.org.springframework>
         <version.org.springframework.security>3.2.7.RELEASE</version.org.springframework.security>
         <version.org.springframework.webflow>2.4.1.RELEASE</version.org.springframework.webflow>
         <version.org.springframework.ws>2.2.1.RELEASE</version.org.springframework.ws>
