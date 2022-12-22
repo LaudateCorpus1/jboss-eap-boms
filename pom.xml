@@ -61,7 +61,7 @@
         <version.org.jboss.shrinkwrap.resolver>2.2.2</version.org.jboss.shrinkwrap.resolver>
         <version.org.jboss.ws.cxf>5.1.8.Final-redhat-1</version.org.jboss.ws.cxf>
         <version.org.picketbox.picketbox-commons>1.0.0.final-redhat-4</version.org.picketbox.picketbox-commons>
-        <version.org.picketlink>2.5.5.SP8-redhat-1</version.org.picketlink>
+        <version.org.picketlink>2.7.0.Final</version.org.picketlink>
         <version.org.glassfish.jaxb>2.2.11.redhat-4</version.org.glassfish.jaxb>
 
         <!-- Version of Hibernate projects -->
